@@ -42,3 +42,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# C:\Users\SCI\OneDrive\Desktop\Gaurav Joshi Codes\AI EXPS>python 9612_Exp_9.py
+# Dietary needs: low_calorie, high_protein
+# ['Focus on consuming fruits, vegetables, lean proteins, and whole grains. Limit added sugars and fats.', 'Include plenty of protein-rich foods such as lean meats, fish, eggs, dairy, legumes, and nuts.']
+
+# Dietary needs: low_carb, balanced_diet
+# ['Limit carbohydrate intake and focus on consuming non-starchy vegetables, lean proteins, and healthy fats.', 'Eat a variety of foods from all food groups, including fruits, vegetables, grains, protein-rich foods, and healthy fats.']
+
+# Dietary needs: low_fat, gluten_free, vegetarian
+# ['Choose foods that are naturally low in fat such as fruits, vegetables, and lean proteins.', 'Avoid foods containing gluten such as wheat, barley, and rye. Focus on naturally gluten-free foods like fruits, vegetables, lean meats, and gluten-free grains.', 'Avoid meat and fish. Include plant-based sources of protein such as beans, lentils, tofu, and tempeh.']
+
+# Dietary needs: vegan, low_sodium
+# ['Avoid all animal products including meat, fish, dairy, and eggs. Focus on plant-based foods.', 'Limit salt intake and choose foods that are low in sodium. Avoid processed foods and choose fresh or homemade options.']
