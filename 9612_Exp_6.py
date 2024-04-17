@@ -1,5 +1,7 @@
 #GauravJoshi_9612_BatchD
 
+from queue import PriorityQueue
+
 class Graph:
     def __init__(self, graph, heuristicNodeList, startNode):  # instantiate graph object with graph topology, heuristic values, start node
         self.graph = graph
@@ -93,8 +95,6 @@ G1.printSolution()
 # {'I': [], 'G': ['I'], 'B': ['G'], 'J': [], 'C': ['J'], 'A': ['B', 'C']}
 # ------------------------------------------------------------
 
-
-from queue import PriorityQueue
 
 class Node:
     def __init__(self, state, g_value, f_value):
